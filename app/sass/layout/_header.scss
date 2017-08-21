@@ -1,0 +1,30 @@
+@import "../sass-utils/_variables";
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+  }
+  li {
+    display: inline-block;
+    font-size: $primary-size;
+    font-family: $primary-family;
+    text-transform: uppercase;
+  }
+  a {
+    color: $primary-color;
+    padding: 14px 16px;
+    display: block;
+    text-decoration: none;
+    &:hover {
+      background:#333;
+      border-color:#333;
+      color:white;
+    }
+  }
+
+}

@@ -1,0 +1,13 @@
+@import "../sass-utils/_variables";
+
+a {
+  text-decoration: none;
+}
+p {
+  color: $primary-color;
+}
+.like {
+  color: $primary-color;
+  font-size: $primary-size;
+  text-transform: uppercase;
+}

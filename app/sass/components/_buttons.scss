@@ -1,0 +1,55 @@
+@import "../sass-utils/_variables";
+
+.ghost {
+  display:inline-block;
+  position: relative;
+  top: 70%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  /* text styles */
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-size: $primary-size;
+  letter-spacing: 0.1em;
+  color:#ffffff;
+  /* modify text */
+  text-decoration:none;
+  text-transform:uppercase;
+  text-rendering:optimizeLegibility;
+  /* add a border */
+  border:0.15em solid #fff;
+  padding:0.4em 0.6em;
+
+  -webkit-transition: color 300ms, background 500ms, border-color 700ms;
+  transition: color 300ms, background 500ms, border-color 700ms;
+  &:hover {
+    background:#333;
+    border-color:#333;
+    color:white;
+  }
+}
+.red_button {
+  text-transform: uppercase;
+  line-height: 40px;
+  font-weight: bold;
+  background-color: white;
+  border-color: black;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 100%;
+  margin-left: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  &:hover {
+    background-color: #f44336;
+    color: white;
+  }
+}

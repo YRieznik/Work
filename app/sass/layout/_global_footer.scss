@@ -1,0 +1,93 @@
+#global_footer {
+  background-color: black;
+  position: relative;
+  padding-bottom: 50px;
+    .footer_policy {
+      padding-top: 15px;
+      text-align: center;
+      p {
+        color: #454545;
+        font-family: "Helvetica", Arial, sans-serif;
+        font-size: 10px;
+        margin-top: 20px;
+        margin-left: 430px;
+        margin-right: 430px;
+      }
+    }
+    .footer_links {
+      text-align: center;
+      padding-top: 30px;
+
+      li {
+        display: inline-block;
+        a {
+          font-family: $primary-family;
+          text-transform: uppercase;
+          color: $primary-color;
+          font-size: 16px;
+          font-weight: normal;
+          font-style: italic;
+          display: block;
+          text-decoration: none;
+        }
+      }
+    }
+    .contact_with_us{
+      text-align: center;
+      background-color: black;
+      margin-right: 75px;
+      margin-left: 75px;
+      h1 {
+        margin: 0;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        color: $primary-color;
+      }
+      .secondary_connections{
+        border-bottom: 1px solid gray;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+        list-style-type: none;
+        margin: 0;
+        overflow: hidden;
+        li {
+          display: inline-block;
+          a {
+            display: block;
+            text-decoration: none;
+            margin-left: 8px;
+            margin-right: 8px;
+          }
+        }
+      }
+      .primary_connections {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        text-align: center;
+        list-style-type: none;
+        li {
+          background-color: grey;
+          display: inline-block;
+          font-size: 16px;
+          font-family: $primary-family;
+          font-style: italic;
+          text-transform: uppercase;
+          padding-left: 20px;
+          padding-right: 20px;
+          a {
+            float: left;
+            color: $primary-color;
+            padding: 14px 16px;
+            display: block;
+            text-decoration: none;
+          }
+          img {
+            float: right;
+            margin-left: 100px;
+          }
+        }
+      }
+    }
+}
