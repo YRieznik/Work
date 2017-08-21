@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6de7a6-8638-4e69-80c4-bc4b95722338" name="Default" comment="Slider+new design" />
+    <list default="true" id="ed6de7a6-8638-4e69-80c4-bc4b95722338" name="Default" comment="Slider+new design">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,7 +18,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
               <caret line="67" column="47" lean-forward="false" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
@@ -108,7 +110,6 @@
         <option value="$PROJECT_DIR$/slide.css" />
         <option value="$PROJECT_DIR$/JS/slider.js" />
         <option value="$PROJECT_DIR$/jquery.bxslider.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/gulp.js" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
@@ -136,6 +137,7 @@
         <option value="$PROJECT_DIR$/app/sass/layout/_global_footer.scss" />
         <option value="$PROJECT_DIR$/app/sass/layout/_main_bottom.scss" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -182,6 +184,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -197,19 +213,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\WebstormProjects\Test\app\sass\layout" />
-      <recent name="C:\Users\user\WebstormProjects\Test\app\sass\base" />
-      <recent name="C:\Users\user\WebstormProjects\Test\app\css" />
-      <recent name="C:\Users\user\WebstormProjects\Test\app" />
-      <recent name="C:\Users\user\WebstormProjects\Test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\WebstormProjects\Home\fcz\app\img" />
       <recent name="C:\Users\Юрий\WebstormProjects\Home\fcz\app\img" />
       <recent name="C:\Users\Юрий\WebstormProjects\fcz\app\sass\layout" />
       <recent name="C:\Users\user\WebstormProjects\Test\app\img" />
       <recent name="C:\Users\user\WebstormProjects\Test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\Work" />
+      <recent name="C:\Users\user\WebstormProjects\Test\app\sass\layout" />
+      <recent name="C:\Users\user\WebstormProjects\Test\app\sass\base" />
+      <recent name="C:\Users\user\WebstormProjects\Test\app\css" />
+      <recent name="C:\Users\user\WebstormProjects\Test\app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -362,12 +378,12 @@
       <workItem from="1503236810895" duration="1823000" />
       <workItem from="1503238906290" duration="10039000" />
       <workItem from="1503297521664" duration="11213000" />
-      <workItem from="1503322800459" duration="30000" />
+      <workItem from="1503322800459" duration="1235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244769000" />
+    <option name="totallyTimeSpent" value="245974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="181" width="1653" height="867" extended-state="0" />
@@ -597,7 +613,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="67" column="47" lean-forward="false" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
