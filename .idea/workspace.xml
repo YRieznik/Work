@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6de7a6-8638-4e69-80c4-bc4b95722338" name="Default" comment="Slider+new design">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ed6de7a6-8638-4e69-80c4-bc4b95722338" name="Default" comment="Slider+new design" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -379,12 +376,12 @@
       <workItem from="1503236810895" duration="1823000" />
       <workItem from="1503238906290" duration="10039000" />
       <workItem from="1503297521664" duration="11213000" />
-      <workItem from="1503322800459" duration="1591000" />
+      <workItem from="1503322800459" duration="2097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246330000" />
+    <option name="totallyTimeSpent" value="246836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="181" width="1653" height="867" extended-state="1" />
