@@ -1,8 +1,8 @@
-#global_footer {
+#second-footer {
   background-color: black;
   position: relative;
   padding-bottom: 50px;
-    .footer_policy {
+    .second-footer_policy {
       padding-top: 15px;
       text-align: center;
       p {
@@ -14,7 +14,7 @@
         margin-right: 430px;
       }
     }
-    .footer_links {
+    .second-footer_links {
       text-align: center;
       padding-top: 30px;
 
@@ -32,7 +32,7 @@
         }
       }
     }
-    .contact_with_us{
+    .second-footer_buttons{
       text-align: center;
       background-color: black;
       margin-right: 75px;
@@ -43,7 +43,7 @@
         padding-bottom: 25px;
         color: $primary-color;
       }
-      .secondary_connections{
+      .second-footer_widgets{
         border-bottom: 1px solid gray;
         padding-top: 30px;
         padding-bottom: 30px;
@@ -61,7 +61,7 @@
           }
         }
       }
-      .primary_connections {
+      .second-footer_connections {
         margin: 0;
         padding: 0;
         overflow: hidden;

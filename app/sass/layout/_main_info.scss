@@ -1,6 +1,6 @@
 
 
-#main_info {
+#main-middle {
   height: auto;
   width: 100%;
   div {
@@ -8,7 +8,7 @@
   }
 
 }
-.info_container {
+.main-middle_container {
   height: auto;
   width: auto;
   padding-top: 25px;
@@ -18,7 +18,7 @@
   margin-bottom: 75px;
   margin-top: 75px;
   background-color: white;
-  .art_info  {
+  .main-middle_info  {
     padding-left: 30px;
     p {
     color: $secondary-color;
@@ -29,20 +29,20 @@
     font-style: $secondary-fontstyle;
     }
   }
-  .copy {
+  .main-middle_article {
     margin-left: 50px;
     padding-right: 50px;
     float: right;
     width: auto;
     height: auto;
   }
-  .button_container {
+  .main-middle_line {
     width: 100%;
     height: auto;
     background-color: black;
     margin-top: 75px;
   }
-  .text_info {
+  .main-middle_text {
     margin-top: 100px;
   }
   p {
