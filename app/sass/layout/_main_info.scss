@@ -4,11 +4,12 @@
   height: auto;
   width: 100%;
   div {
-    display: inline-block;
+    //display: inline-block;
   }
 
 }
 .info_container {
+  display: flex;
   height: auto;
   width: auto;
   padding-top: 25px;
